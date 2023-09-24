@@ -1,0 +1,30 @@
+{
+  "name": "excel-server",
+  "version": "0.0.1",
+  "description": "A fast and easy setup server that serves data stored as excel files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ITP2023/excel-server.git"
+  },
+  "keywords": [
+    "excel",
+    "server",
+    "json",
+    "backend",
+    "api",
+    "cli"
+  ],
+  "author": "ITP2023",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ITP2023/excel-server/issues"
+  },
+  "homepage": "https://github.com/ITP2023/excel-server#readme",
+  "dependencies": {
+    "exceljs": "^4.3.0"
+  }
+}
